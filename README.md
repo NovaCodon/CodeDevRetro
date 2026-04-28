@@ -3,6 +3,6 @@ CodeDev Retro is a special edition of CodeDev built to support legacy systems li
 
 This page is only meant for the version of CodeDev retro 1.2.1 and above.
 
-Releases: https://github.com/NeuroYott/CodeDevRetro/releases
+Releases: https://github.com/NovaCodon/CodeDevRetro/releases
 
-Releases (1.2.0 and below): https://github.com/NeuroYott/CodeDev/releases
+Releases (1.2.0 and below): https://github.com/NovaCodon/CodeDev/releases
